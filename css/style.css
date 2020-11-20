@@ -1,8 +1,8 @@
 .logo{
     display: block;
     margin: auto;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
 }
 
 .container{
@@ -58,5 +58,5 @@
 }
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(255, 255,255), rgb(7, 51, 68));
+    background-image: linear-gradient(rgb(15, 2, 2), rgb(35, 144, 187));
 }
