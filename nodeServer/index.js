@@ -1,7 +1,7 @@
 
 //Node server whick will handel Socket IO connections
 
-const io = require('socket.io')(8000)
+const io = require('socket.io')(4000)
 
 const users = {};
 
