@@ -17,7 +17,7 @@ h1{
 
 .container{
     max-width: 955px;
-    border: 2px solid black;
+    border: 2px solid black   ;
     margin: auto;
     height: 55vh;
     padding: 33px;
